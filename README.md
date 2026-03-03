@@ -1,6 +1,8 @@
 # SimonMemoryWearableWoop
 A wearable Simon Memory game! 
 
+Tutorial available on YouTube: https://www.youtube.com/watch?v=QNNUVUPXfdI&t=55s have fun building this! 
+
 This is the main file. There is an alternative version that also connects to a phone / computer etc. That one has a highscores league table. 
 This is a wearable build that is on my channel.
 
